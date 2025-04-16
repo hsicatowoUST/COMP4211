@@ -18,7 +18,7 @@ extracting emotion patterns in scam conversations and identifying their contribu
 machine learning model for scam detection.
 
 ## Code
-Please check the [jupyter notebook](/COMP4211Project.ipynb)
+Please check the jupyter notebook [code.ipynb](/code.ipynb)
 ## Report
 Please check [report.pdf](/report.pdf)
 
